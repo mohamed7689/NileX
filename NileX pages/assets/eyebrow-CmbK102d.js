@@ -1,0 +1,1 @@
+import{i as e}from"createLucideIcon-BLlPVp53.js";import{t}from"utils-Lyr03DEQ.js";var n=e();function r({children:e,className:r}){return(0,n.jsxs)(`p`,{className:t(`flex items-center gap-2 font-mono text-xs tracking-[0.25em] text-primary uppercase`,r),children:[(0,n.jsx)(`span`,{className:`h-px w-6 bg-primary`}),e]})}export{r as t};
